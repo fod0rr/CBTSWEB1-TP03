@@ -1,6 +1,6 @@
 package models;
 
-//Eduardo Miranda CB3026604 | Cauã Barros da Costa CB3025179
+//Maria Eduarda Fodor CB3025063 | Pedro Xavier Oliveira CB3027376
 
 public class Book {
 	protected int id;
