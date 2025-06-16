@@ -27,12 +27,12 @@
 			<br/>
 			<br/>
 			<br/>
-			<strong>Eduardo Miranda CB3026604</strong>
-			<strong>Cauã Barros da Costa CB3025179</strong>
+			<strong>Maria Eduarda Fodor CB3025063</strong>
+			<strong>Pedro Xavier Oliveira CB3027376</strong>
 		</main>
 		
 		<footer>
-			Feito por: Eduardo Miranda CB3026604 | Cauã Barros da Costa CB3025179
+			Feito por: Maria Eduarda Fodor CB3025063 | Pedro Xavier Oliveira CB3027376
 		</footer>
 	</body>
 </html>
